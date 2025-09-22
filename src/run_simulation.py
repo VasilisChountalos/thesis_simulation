@@ -24,3 +24,6 @@ def run(seed=0, steps=10):
 
 if __name__ == "__main__":
     print(run()[:5])
+def placeholder():
+    return 'ok'
+
